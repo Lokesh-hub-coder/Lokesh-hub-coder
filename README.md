@@ -8,6 +8,4 @@ Lokesh Singh
 
 💻 Skills: JAVA, Python, C,C++, HTML/CSS, JavaScript,ReactJs
 
-🌱 Currently Learning: Advanced JAVA, Spring Boot, Microservices
-
 👯 Looking to Collaborate on: Open-source projects and any exciting tech challenges.
